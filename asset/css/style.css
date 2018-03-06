@@ -1,0 +1,94 @@
+/**{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}*/
+.logo{
+	margin-top: -20px;
+}
+
+.titulo{
+	margin-bottom: 15px;
+	font-size: 23px;
+}
+
+
+.nombreFoto{
+	background-color:#9BD1DE;
+}
+
+.textoPerfil{
+	margin-top: 260px;
+	margin-left: 100px;
+	text-align:justify;
+	color: #686869;
+}
+
+.objetivo{
+	margin-bottom: 10px;
+}
+
+
+.lista{
+	margin-right:50px;
+	margin-top: 10px;
+	margin-bottom: -15px;
+}
+
+.encabezado{
+	background-image: url(../img/encabezado.png);
+}
+
+.estudios{
+	text-align:center;
+
+}
+
+.fecha{
+	color: #065c75;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.trabajos{
+	text-align:justify;
+}
+
+.contenTrabajos{
+	margin-left:200px;
+    text-align:justify;
+}
+
+.trabajoIzq{
+	margin-right: 20px;
+   
+}
+
+.empleos{
+	background-color: #e3e9f7;
+   
+}
+
+.datos{
+	background-color: #e3e9f7;
+   
+}
+
+.formacion{
+	margin-top: 40px;
+   
+}
+
+
+.formacion2{
+	margin-top: 30px;
+   }
+
+   .experiencia1{
+	margin-top: 30px;
+   }
+
+    .experiencia2{
+	margin-top: 40px;
+	margin-bottom: 30px;
+   }
